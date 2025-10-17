@@ -5,3 +5,6 @@ __pycache__/
 
 # Cartella delle migrazioni 
 */migrations/__pycache__/
+
+# Database locale
+db.sqlite3
