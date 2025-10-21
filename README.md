@@ -1,4 +1,4 @@
-# 🗄️ Progetto Django: Django Database Model
+# Progetto Django: Django Database Model
 
 ## 📖 Descrizione
 **Django Database Model** è il proseguimento del progetto 
